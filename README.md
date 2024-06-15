@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! Here you will find a collection of my projects s
 
 ### 1. [HR Analytics](link-to-project-1)
 - **Description**: Comprehensive analysis of HR data to uncover insights and trends.
-- **Technologies Used**: Power BI, Python 
+- **Technologies Used**: Power BI, Juypter Notebook, Python 
 - **Key Features**:
   - **Data Cleaning**: Removed redundant columns, renamed columns, dropped duplicates, cleaned individual columns, removed NaN values, and performed additional transformations.
   - **Data Visualization**: Created correlation maps for numeric variables and visualized relationships across various factors, including Overtime, Marital Status, Job Role, Gender, Education Field, Department, Business Travel, Age, Total Working Years, Education Level, Number of Companies Worked, and Distance from Home.
