@@ -18,6 +18,15 @@ Welcome to my GitHub portfolio! Here you will find a collection of my projects s
   - Analyzed sales trends and identified best-selling products.
   - Calculated key revenue metrics, including total sales and profit margins.
   - Created visualizations to present findings and enable data-driven sales strategy optimization.
+ 
+    
+### 3. [Consumer Price Index 2020 to 2024](link-to-project-3)
+- **Description**: Analysis of Consumer Price Index data spanning from 2020 to 2024.
+- **Datasource**: Statistical Institute of Jamaica (STATIN)
+- **Technologies Used**: Python, Power BI, Jupyter Notebook
+- **Key Features**:
+  - Created visualizations to present CPI over the span from 2020 - 2024
+    
 
 ## Contact
 For questions, feedback, or suggestions, feel free to contact me:
